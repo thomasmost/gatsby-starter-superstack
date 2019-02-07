@@ -5,12 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby's 'Superstack' Starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your project with this 'Superstack' boilerplate, with out-of-the-box support for TypeScript and Sass. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React, with TSX replacing JavaScript and example Sass modules replacing inline styles.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+_Looking for something else? You may want to check out the [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
@@ -20,7 +20,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```sh
     # create a new Gatsby site using this starter
-    npx gatsby new my-typescript-starter git@github.com:thomasmost/gatsby-typescript-starter.git
+    npx gatsby new my-superstack-starter git@github.com:thomasmost/gatsby-superstack-starter.git
     ```
 
 1.  **Start developing.**
@@ -28,7 +28,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd my-typescript-starter/
+    cd my-superstack-starter/
     gatsby develop
     ```
 
@@ -38,7 +38,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-typescript-starter` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
+    Open the `my-superstack-starter` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
