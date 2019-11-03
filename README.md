@@ -20,7 +20,7 @@ _Looking for something else? You may want to check out the [official and communi
 
     ```sh
     # create a new Gatsby site using this starter
-    npx gatsby new my-superstack-starter git@github.com:thomasmost/gatsby-superstack-starter.git
+    npx gatsby new my-superstack-starter git@github.com:thomasmost/gatsby-starter-superstack.git
     ```
 
 1.  **Start developing.**

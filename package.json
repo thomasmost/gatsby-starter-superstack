@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-superstack-starter",
+  "name": "gatsby-starter-superstack",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
@@ -38,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomasmost/gatsby-superstack-starter"
+    "url": "https://github.com/thomasmost/gatsby-starter-superstack"
   },
   "bugs": {
-    "url": "https://github.com/thomasmost/gatsby-superstack-starter/issues"
+    "url": "https://github.com/thomasmost/gatsby-starter-superstack/issues"
   }
 }
