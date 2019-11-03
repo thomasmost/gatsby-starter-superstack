@@ -1,0 +1,14 @@
+- url: https://gatsby-superstack.netlify.com/
+  repo: https://github.com/thomasmost/gatsby-starter-superstack
+  description: A modern Gatsby starter for modular TypeScript and Sass development
+
+  # These correspond to the category filters in the library
+  # See docs/categories.yml for valid tags.
+  tags:
+    - TypeScript
+    - Sass
+
+  # Add your site features
+  # These will be included on your starter's detail page.
+  features:
+    - Basic setup with Sass modules replacing CSS
